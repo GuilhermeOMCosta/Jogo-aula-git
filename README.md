@@ -6,4 +6,4 @@
   <h2> 🚧 definitivamente um dos testes já feitos 🚧 <h2>
   <img scr="![palmas azuis com arco em cima](https://github.com/GuilhermeOMCosta/Jogo-aula-git/assets/171978434/5765fffe-6498-4b41-9bc5-7819e8e8a676)">
   <img scr="![imagem TESTE :0](https://github.com/GuilhermeOMCosta/Jogo-aula-git/assets/171978434/0de27671-88ad-4fb7-b2da-6b6f7cedb8e1)">
-<div>
+
